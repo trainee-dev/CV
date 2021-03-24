@@ -1,0 +1,12 @@
+theme: jekyll-theme-cayman
+title: trainee.dev
+
+author: Dmytro Vasylenko
+email: trainee.dev21@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  CV for position of trainee in Ukrainian IT company
+
+# social links
+github_username:  trainee-dev # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
